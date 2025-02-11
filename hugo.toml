@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Art’s Anime recommendation'
+theme = 'hello-friend-ng'
+[[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
